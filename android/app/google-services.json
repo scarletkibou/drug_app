@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1062186703912",
+    "project_id": "drug-8b019",
+    "storage_bucket": "drug-8b019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062186703912:android:7e3239d2cd1d50d8aea91d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4h_pTYWXdZHMcgmNuTy_K_KBBr2WaM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062186703912:android:df2d525adcf98795aea91d",
+        "android_client_info": {
+          "package_name": "com.example.drug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4h_pTYWXdZHMcgmNuTy_K_KBBr2WaM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062186703912:android:fae2127c1aa723e4aea91d",
+        "android_client_info": {
+          "package_name": "com.example.kuy2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4h_pTYWXdZHMcgmNuTy_K_KBBr2WaM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
