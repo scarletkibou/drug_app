@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:kuy2/pages/age/year_page.dart';
+import 'package:kuy2/pages/controller/flow1.dart';
 
 class Bmi extends StatefulWidget {
   @override
@@ -10,6 +11,7 @@ class Bmi extends StatefulWidget {
 class _BmiState extends State<Bmi> {
   final TextEditingController _heightController = TextEditingController();
   final TextEditingController _weightController = TextEditingController();
+  flow1Controller conx = Get.put(flow1Controller());
 
   double? _result;
 
@@ -53,15 +55,16 @@ class _BmiState extends State<Bmi> {
             ),
             SizedBox(height: 15),
             Text(
-              _result == null
+              conx.bmi.value == 0
                   ? "Enter Value"
-                  : "${_result!.toStringAsFixed(2)}",
+                  : "${conx.bmi.value.toStringAsFixed(2)}",
               style: const TextStyle(
                 color: Colors.redAccent,
                 fontSize: 19.4,
                 fontWeight: FontWeight.w500,
               ),
             ),
+
             SizedBox(height: 30),
             ElevatedButton(
               style: ElevatedButton.styleFrom(
@@ -106,7 +109,9 @@ class _BmiState extends State<Bmi> {
 
     double heightSquare = height * height;
     double result = weight / heightSquare;
+    conx.bmi.value = result;
     _result = result;
+
     setState(() {});
   }
 }

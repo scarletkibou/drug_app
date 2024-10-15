@@ -39,6 +39,7 @@ dependencies:
   firebase_auth: ^5.3.1
   fluttertoast: ^8.2.8
   get: ^4.6.6
+  flutter_launcher_icons: ^0.14.1
 
 dev_dependencies:
   flutter_test:
@@ -66,6 +67,10 @@ flutter:
   assets:
       - assets/
   #   - images/a_dot_ham.jpeg
+flutter_icons:
+  android : true
+  ios : true
+  image_path: "assets/hospital.jpg"
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

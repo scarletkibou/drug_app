@@ -1,10 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:kuy2/pages/controller/flow1.dart';
+import 'package:kuy2/pages/result/result_page.dart'; // Import your controller
 
 class AgeSelectionPage extends StatelessWidget {
   const AgeSelectionPage({super.key});
 
   @override
   Widget build(BuildContext context) {
+    flow1Controller conx = Get.find<flow1Controller>();
+
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.transparent,
@@ -33,7 +38,7 @@ class AgeSelectionPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Years',
+              'HOW OLD ARE YOU?',
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
@@ -42,7 +47,10 @@ class AgeSelectionPage extends StatelessWidget {
             ),
             SizedBox(height: 30),
             ElevatedButton(
-              onPressed: () {},
+              onPressed: () {
+                conx.selectedAgeRange.value = '<19 years';
+                Get.to(Result());
+              },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.redAccent,
                 shape: RoundedRectangleBorder(
@@ -53,14 +61,17 @@ class AgeSelectionPage extends StatelessWidget {
               child: Text(
                 '<19 years',
                 style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                ),
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.black),
               ),
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              onPressed: () {},
+              onPressed: () {
+                conx.selectedAgeRange.value = '19-40 years';
+                Get.to(Result());
+              },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.redAccent,
                 shape: RoundedRectangleBorder(
@@ -71,14 +82,17 @@ class AgeSelectionPage extends StatelessWidget {
               child: Text(
                 '19-40 years',
                 style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                ),
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.black),
               ),
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              onPressed: () {},
+              onPressed: () {
+                conx.selectedAgeRange.value = '>40 years';
+                Get.to(Result());
+              },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.redAccent,
                 shape: RoundedRectangleBorder(
@@ -89,9 +103,9 @@ class AgeSelectionPage extends StatelessWidget {
               child: Text(
                 '>40 years',
                 style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                ),
+                    fontSize: 18,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.black),
               ),
             ),
           ],

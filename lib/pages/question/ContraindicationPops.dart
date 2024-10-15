@@ -55,8 +55,23 @@ class Contraindicationpops extends StatelessWidget {
                   ],
                 ),
               ),
+              SizedBox(
+                height: 70,
+              ),
+              Container(
+                margin: const EdgeInsets.all(4),
+                padding: EdgeInsets.all(10),
+                color: Color.fromARGB(255, 255, 229, 236),
+                child: const Text(
+                    'Breast Cancer\nCurrent and history of ischemic heart disease\nDecompensated\nCirrhosis\nHistory of Stroke\nHepatocellular adenoma\nMalignant Deep vein thrombosis\nPulmonary embolism',
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black,
+                    )),
+              ),
               const SizedBox(
-                height: 200,
+                height: 150,
               ),
               ElevatedButton(
                 onPressed: () {
