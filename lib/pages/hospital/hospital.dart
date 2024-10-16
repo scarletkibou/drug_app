@@ -40,20 +40,22 @@ class Hospital extends StatelessWidget {
             children: [
               const Center(
                 child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.center,
                   children: [
+                    const SizedBox(height: 300),
                     Text(
-                      'HOSPITAL ヾ(≧▽≦*)o',
+                      'HOSPITAL ',
                       style: TextStyle(
                         color: Colors.black,
                         fontWeight: FontWeight.bold,
                         fontSize: 28,
                       ),
                     ),
-                    Image(
-                      image: AssetImage('assets/hospital.jpg'),
-                      width: 400,
-                      height: 400,
-                    )
+                    // Image(    ヾ(≧▽≦*)o
+                    //   image: AssetImage('assets/hospital.jpg'),
+                    //   width: 400,
+                    //   height: 400,
+                    // )
                   ],
                 ),
               ),

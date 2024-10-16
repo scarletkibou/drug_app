@@ -28,6 +28,11 @@ class _BmiState extends State<Bmi> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            Image.asset(
+              'assets/bmi.png',
+              width: 300,
+              height: 300,
+            ),
             TextField(
               controller: _heightController,
               keyboardType: TextInputType.number,
@@ -57,10 +62,10 @@ class _BmiState extends State<Bmi> {
             Text(
               conx.bmi.value == 0
                   ? "Enter Value"
-                  : "${conx.bmi.value.toStringAsFixed(2)}",
+                  : "Your BMI : ${conx.bmi.value.toStringAsFixed(2)}",
               style: const TextStyle(
                 color: Colors.redAccent,
-                fontSize: 19.4,
+                fontSize: 20,
                 fontWeight: FontWeight.w500,
               ),
             ),

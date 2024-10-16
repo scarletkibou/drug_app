@@ -2,7 +2,15 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:kuy2/pages/bmi/bmi_page.dart';
+import 'package:kuy2/pages/button/buttonanimation.dart';
 import 'package:kuy2/pages/question/Allpops.dart';
+
+enum conditions {
+  concern_Condition1,
+  concern_Condition2,
+  concern_Condition3,
+  concern_Condition4
+}
 
 class Concernpop extends StatelessWidget {
   const Concernpop({super.key});
@@ -50,6 +58,45 @@ class Concernpop extends StatelessWidget {
                         fontSize: 28,
                       ),
                     ),
+                    SizedBox(
+                      height: 50,
+                    ),
+                    Column(
+                      children: <Widget>[
+                        ListTile(
+                          title: Text('Concern_Condition1'),
+                          leading: Radio<conditions>(
+                            value: conditions.concern_Condition1,
+                            groupValue: null,
+                            onChanged: null,
+                          ),
+                        ),
+                        ListTile(
+                          title: Text('Concern_Condition2'),
+                          leading: Radio<conditions>(
+                            value: conditions.concern_Condition2,
+                            groupValue: null,
+                            onChanged: null,
+                          ),
+                        ),
+                        ListTile(
+                          title: Text('Concern_Condition3'),
+                          leading: Radio<conditions>(
+                            value: conditions.concern_Condition3,
+                            groupValue: null,
+                            onChanged: null,
+                          ),
+                        ),
+                        ListTile(
+                          title: Text('Concern_Condition4'),
+                          leading: Radio<conditions>(
+                            value: conditions.concern_Condition4,
+                            groupValue: null,
+                            onChanged: null,
+                          ),
+                        ),
+                      ],
+                    )
                   ],
                 ),
               ),
@@ -57,25 +104,17 @@ class Concernpop extends StatelessWidget {
                 height: 200,
               ),
               ElevatedButton(
-                onPressed: () {
-                  //  drospirenon 4mg here a rai mai roo
-                },
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color.fromARGB(255, 255, 127, 127),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(20),
+                  onPressed: () {
+                    //  drospirenon 4mg here a rai mai roo
+                  },
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: const Color.fromARGB(255, 255, 127, 127),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    minimumSize: Size(double.infinity, 60),
                   ),
-                  minimumSize: Size(double.infinity, 60),
-                ),
-                child: const Text(
-                  'YES',
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
-              ),
+                  child: const AnimatedButton()),
               const SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () {

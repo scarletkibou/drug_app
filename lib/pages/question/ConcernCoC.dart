@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:kuy2/pages/bmi/bmi_page.dart';
+import 'package:kuy2/pages/button/buttonanimation.dart';
 
 class Concerncoc extends StatelessWidget {
   const Concerncoc({super.key});
@@ -66,14 +67,7 @@ class Concerncoc extends StatelessWidget {
                   ),
                   minimumSize: Size(double.infinity, 60),
                 ),
-                child: const Text(
-                  'YES',
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
+                child: const AnimatedButton(),
               ),
               const SizedBox(height: 20),
               ElevatedButton(

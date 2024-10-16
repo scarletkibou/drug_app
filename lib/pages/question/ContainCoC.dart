@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:kuy2/pages/bmi/bmi_page.dart';
+import 'package:kuy2/pages/button/buttonanimation.dart';
 import 'package:kuy2/pages/question/ConcernCoC.dart';
 import 'package:kuy2/pages/question/ContraindicationPops.dart';
 
@@ -43,19 +44,36 @@ class ContaCOC extends StatelessWidget {
               const Center(
                 child: Column(
                   children: [
+                    SizedBox(
+                      height: 25,
+                    ),
                     Text(
                       'CONTRAINDICATIONS COCS?',
                       style: TextStyle(
                         color: Colors.black,
                         fontWeight: FontWeight.bold,
-                        fontSize: 28,
+                        fontSize: 27,
                       ),
                     ),
                   ],
                 ),
               ),
+              Container(
+                margin: const EdgeInsets.all(4),
+                padding: EdgeInsets.all(10),
+                decoration: BoxDecoration(
+                    border: Border.all(color: Colors.black),
+                    color: Color.fromARGB(255, 255, 229, 236)),
+                child: const Text(
+                    'Age > 35 years + Smoking\nBreast Cancer\nBreastfeeding\nNonbreastfeeding + <= 42 days postpartum\nComplicated Diabetes mellitus\nDecompensated Cirrhosis\nMigrane with aura, without aura + Age > 35 years \nHyperlipidemia + DM + HTN + Age > 35 years\nHypertension\nPrevious history: VTE, Stroke, Ischemic',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black,
+                    )),
+              ),
               const SizedBox(
-                height: 200,
+                height: 75,
               ),
               ElevatedButton(
                 onPressed: () {
@@ -68,14 +86,7 @@ class ContaCOC extends StatelessWidget {
                   ),
                   minimumSize: Size(double.infinity, 60),
                 ),
-                child: const Text(
-                  'YES',
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
+                child: const AnimatedButton(),
               ),
               const SizedBox(height: 20),
               ElevatedButton(

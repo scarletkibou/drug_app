@@ -22,7 +22,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'SUCEE 28’s (21+7) 90-180 Bath',
+    'Drug name': 'SUCEE 28’s (21+7) 90-180 Baht',
     'price': '90-180 Baht'
   },
   {
@@ -35,7 +35,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'PREME 28’s (21+7) 130-170 Bath',
+    'Drug name': 'PREME 28’s (21+7) 130-170 Baht',
     'price': '130-170 Baht'
   },
   {
@@ -48,7 +48,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'MANOANE  21’s  80-100 Bath',
+    'Drug name': 'MANOANE  21’s  80-100 Baht',
     'price': '80-100 Baht'
   },
   {
@@ -61,8 +61,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'CYPRESS  21’s  80-100 Bath',
-    'price': '80-100 Bath'
+    'Drug name': 'CYPRESS  21’s  80-100 Baht',
+    'price': '80-100 Baht'
   },
   {
     'Start': 'Yes',
@@ -74,7 +74,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'HELEN 21’s  90-120 Bath',
+    'Drug name': 'HELEN 21’s  90-120 Baht',
     'price': '90-120 Baht'
   },
   {
@@ -87,7 +87,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'LADY-E35  21’s  80-100 Bath',
+    'Drug name': 'LADY-E35  21’s  80-100 Baht',
     'price': '80-100 Baht'
   },
   {
@@ -100,7 +100,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'SASHA 21’s 80-100 Bath',
+    'Drug name': 'SASHA 21’s 80-100 Baht',
     'price': '80-100 Baht'
   },
   {
@@ -113,7 +113,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '<18.6',
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'OC-35 21’s 110-140 Bath',
+    'Drug name': 'OC-35 21’s 110-140 Baht',
     'price': '110-140 Baht'
   },
   {
@@ -126,7 +126,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '<18.7',
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'B-LADY 21’s  100-130 Bath',
+    'Drug name': 'B-LADY 21’s  100-130 Baht',
     'price': '100-130 Baht'
   },
   {
@@ -139,7 +139,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'ANNIE 21’s 110-150 Bath',
+    'Drug name': 'ANNIE 21’s 110-150 Baht',
     'price': '110-150 Baht'
   },
   {
@@ -152,7 +152,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'DAFNE35 21’s 120-150 Bath',
+    'Drug name': 'DAFNE35 21’s 120-150 Baht',
     'price': '120-150 Baht'
   },
   {
@@ -165,7 +165,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'DIANE 21’s 180-200 Bath',
+    'Drug name': 'DIANE 21’s 180-200 Baht',
     'price': '180-200 Baht'
   },
   {
@@ -178,7 +178,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'PREME 21’s 130-170 Bath',
+    'Drug name': 'PREME 21’s 130-170 Baht',
     'price': '130-170 Baht'
   },
   {
@@ -191,7 +191,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Norgestimate 0.25 mg',
-    'Drug name': "CILEST 21’s 220-250 Bath",
+    'Drug name': "CILEST 21’s 220-250 Baht",
     'price': '220-250 Baht'
   },
   {
@@ -204,7 +204,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Chlormadione acetate 2 mg',
-    'Drug name': 'BELARA 21’s 320-350 Bath',
+    'Drug name': 'BELARA 21’s 320-350 Baht',
     'price': '320-350 Baht'
   },
   {
@@ -217,7 +217,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '<18.6',
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Chlormadione acetate 2 mg',
-    'Drug name': "CHARIVA 21’s 240-280 Bath",
+    'Drug name': "CHARIVA 21’s 240-280 Baht",
     'price': '240-280 Baht'
   },
   {
@@ -230,7 +230,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 2 mg',
-    'Drug name': "MARVELON 21’s 110-130 Bath",
+    'Drug name': "MARVELON 21’s 110-130 Baht",
     'price': '110-130 Baht'
   },
   {
@@ -243,7 +243,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 2 mg',
-    'Drug name': "MARVELON 28’s (21+7) 110-130 Bath",
+    'Drug name': "MARVELON 28’s (21+7) 110-130 Baht",
     'price': '110-130 Baht'
   },
   {
@@ -256,7 +256,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Norgestrel 0.15 mg ',
-    'Drug name': "DIOR 21’s 60-100 Bath",
+    'Drug name': "DIOR 21’s 60-100 Baht",
     'price': '60-100 Baht'
   },
   {
@@ -269,7 +269,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '<18.6',
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Norgestrel 0.15 mg ',
-    'Drug name': "RIGEVIDON 21’s 60-80 Bath",
+    'Drug name': "RIGEVIDON 21’s 60-80 Baht",
     'price': '60-80 Baht'
   },
   {
@@ -282,7 +282,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': "FEMINE 30 21’s 80-90 Bath",
+    'Drug name': "FEMINE 30 21’s 80-90 Baht",
     'price': '80-90 Baht'
   },
   {
@@ -295,7 +295,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': "RITA 21’s 80-90 Bath",
+    'Drug name': "RITA 21’s 80-90 Baht",
     'price': '80-90 Baht'
   },
   {
@@ -308,7 +308,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '<18.6',
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': "RITA 28’s 80-90 Bath",
+    'Drug name': "RITA 28’s 80-90 Baht",
     'price': '80-90 Baht'
   },
   {
@@ -321,7 +321,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '<18.7',
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': "DAISY 21’s 80-90 Bath",
+    'Drug name': "DAISY 21’s 80-90 Baht",
     'price': '80-90 Baht'
   },
   {
@@ -334,7 +334,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'DIORA 21’s (24+4) 470-550 Bath',
+    'Drug name': 'DIORA 21’s (24+4) 470-550 Baht',
     'price': '470-550 Baht'
   },
   {
@@ -347,7 +347,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'DIORA 28’s (21+7) 60-100 Bath',
+    'Drug name': 'DIORA 28’s (21+7) 60-100 Baht',
     'price': '60-100 Baht'
   },
   {
@@ -360,7 +360,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'ANNA 28’s (21+7) 40-70 Bath',
+    'Drug name': 'ANNA 28’s (21+7) 40-70 Baht',
     'price': '40-70 Baht'
   },
   {
@@ -373,7 +373,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "MILLY 21’s 40-70 Bath",
+    'Drug name': "MILLY 21’s 40-70 Baht",
     'price': '40-70 Baht'
   },
   {
@@ -386,7 +386,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "R-DEN 21’s 40-50 Bath",
+    'Drug name': "R-DEN 21’s 40-50 Baht",
     'price': '40-50 Baht'
   },
   {
@@ -412,7 +412,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "MICROGEST 21’s 50-70 Bath",
+    'Drug name': "MICROGEST 21’s 50-70 Baht",
     'price': '50-70 Baht'
   },
   {
@@ -425,7 +425,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "MICROGYNON 30 ED 21’s 60-70 Bath",
+    'Drug name': "MICROGYNON 30 ED 21’s 60-70 Baht",
     'price': '60-70 Baht'
   },
   {
@@ -438,7 +438,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "MICROLENYN 30 ED 21’s 30-40 Bath",
+    'Drug name': "MICROLENYN 30 ED 21’s 30-40 Baht",
     'price': '30-40 Baht'
   },
   {
@@ -451,7 +451,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "CLEO 21’s 80-90 Bath",
+    'Drug name': "CLEO 21’s 80-90 Baht",
     'price': '80-90 Baht'
   },
   {
@@ -464,7 +464,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "ORALCON-F 21’s 80-90 Bath",
+    'Drug name': "ORALCON-F 21’s 80-90 Baht",
     'price': '80-90 Baht'
   },
   {
@@ -477,7 +477,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': "NORDETTE 21’s 50-70 Bath",
+    'Drug name': "NORDETTE 21’s 50-70 Baht",
     'price': '50-70 Baht'
   },
   {
@@ -490,7 +490,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'JUSTIMA 21’s 290-350 Bath',
+    'Drug name': 'JUSTIMA 21’s 290-350 Baht',
     'price': '290-350 Baht'
   },
   {
@@ -503,7 +503,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'MELODIA 21’s 285-310 Bath',
+    'Drug name': 'MELODIA 21’s 285-310 Baht',
     'price': '285-310 Baht'
   },
   {
@@ -516,7 +516,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'YASMIN 21’s 350-420 Bath',
+    'Drug name': 'YASMIN 21’s 350-420 Baht',
     'price': '350-420 Baht'
   },
   {
@@ -529,7 +529,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30  mcg + Drospirenone 3 mg ',
-    'Drug name': "GVEZA 21’s 270-300 Bath",
+    'Drug name': "GVEZA 21’s 270-300 Baht",
     'price': '270-300 Baht'
   },
   {
@@ -542,7 +542,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30  mcg + Drospirenone 3 mg ',
-    'Drug name': "LIPZ 21’s 250-300 bath",
+    'Drug name': "LIPZ 21’s 250-300 Baht",
     'price': '250-300 baht'
   },
   {
@@ -555,7 +555,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30  mcg + Drospirenone 3 mg ',
-    'Drug name': "LIPZ ED 28’s (21+7) 250-300 Bath",
+    'Drug name': "LIPZ ED 28’s (21+7) 250-300 Baht",
     'price': '250-300 Baht'
   },
   {
@@ -568,7 +568,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodone 0.075 mg',
-    'Drug name': 'CAMELLA 21’s 110-130 Bath',
+    'Drug name': 'CAMELLA 21’s 110-130 Baht',
     'price': '110-130 Baht'
   },
   {
@@ -581,7 +581,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodone 0.075 mg',
-    'Drug name': 'CAMELLA 28’s (21+7) 100-130 Bath',
+    'Drug name': 'CAMELLA 28’s (21+7) 100-130 Baht',
     'price': '100-130 Baht'
   },
   {
@@ -594,7 +594,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodene 0.075 mg ',
-    'Drug name': "GYNERA 21’s 100-140 Bath",
+    'Drug name': "GYNERA 21’s 100-140 Baht",
     'price': '100-140 Baht'
   },
   {
@@ -607,7 +607,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodene 0.075 mg ',
-    'Drug name': "GOVANA 21’s 100-140 Bath",
+    'Drug name': "GOVANA 21’s 100-140 Baht",
     'price': '100-140 Baht'
   },
   {
@@ -620,7 +620,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Norgestimate 0.25 mg',
-    'Drug name': "CILEST 21’s 220-250 Bath",
+    'Drug name': "CILEST 21’s 220-250 Baht",
     'price': '220-250 Baht'
   },
   {
@@ -633,7 +633,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'SUCEE 21’s 90-180 Bath',
+    'Drug name': 'SUCEE 21’s 90-180 Baht',
     'price': '90-180 Baht'
   },
   {
@@ -646,7 +646,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'SUCEE 28’s (21+7) 90-180 Bath',
+    'Drug name': 'SUCEE 28’s (21+7) 90-180 Baht',
     'price': '90-180 Baht'
   },
   {
@@ -659,7 +659,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'PREME 28’s (21+7) 130-170 Bath',
+    'Drug name': 'PREME 28’s (21+7) 130-170 Baht',
     'price': '130-170 Baht'
   },
   {
@@ -672,7 +672,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'ANNIE 21’s 110-150 Bath',
+    'Drug name': 'ANNIE 21’s 110-150 Baht',
     'price': '110-150 Baht'
   },
   {
@@ -685,7 +685,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'DAFNE35 21’s 120-150 Bath',
+    'Drug name': 'DAFNE35 21’s 120-150 Baht',
     'price': '120-150 Baht'
   },
   {
@@ -698,7 +698,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'DIANE 21’s 180-200 Bath',
+    'Drug name': 'DIANE 21’s 180-200 Baht',
     'price': '180-200 Baht'
   },
   {
@@ -711,7 +711,7 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 18.5,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 35 mcg + Cyproterone acetate 2 mg',
-    'Drug name': 'PREME 21’s 130-170 Bath',
+    'Drug name': 'PREME 21’s 130-170 Baht',
     'price': '130-170 Baht'
   },
   {
@@ -722,9 +722,9 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': "YAZ 28’s (24+4) 470-550 Bath",
+    'Drug name': "YAZ 28’s (24+4) 470-550 Baht",
     'price': '470-550 Baht'
   },
   {
@@ -735,9 +735,9 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': "HERZ 28’s (24+4) 290-330 Bath",
+    'Drug name': "HERZ 28’s (24+4) 290-330 Baht",
     'price': '290-330 Baht'
   },
   {
@@ -748,9 +748,9 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': "SYNFONIA 28’s (24+4) 300-380 Bath",
+    'Drug name': "SYNFONIA 28’s (24+4) 300-380 Baht",
     'price': '300-380 Baht'
   },
   {
@@ -761,9 +761,9 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': "MERCILON 21’s 160-180 Bath",
+    'Drug name': "MERCILON 21’s 160-180 Baht",
     'price': '160-180 Baht'
   },
   {
@@ -774,9 +774,9 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 21’s 110-130 Bath',
+    'Drug name': 'MINNY 21’s 110-130 Baht',
     'price': '110-130 Baht'
   },
   {
@@ -787,10 +787,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'NOVYNETT 21’s 100-130 Bath',
-    'price': 'nan'
+    'Drug name': 'NOVYNETT 21’s 100-130 Baht',
+    'price': '100-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -800,10 +800,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 28’s (21+7) 160-180 Bath',
-    'price': 'nan',
+    'Drug name': 'MERCILON 28’s (21+7) 160-180 Baht',
+    'price': '160-180 Baht',
     'Unnamed: 13':
         'https://www.wongnai.com/restaurants/24119iP-mama-restaurant-phahurat',
   },
@@ -815,9 +815,9 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 28’s (21+7) 110-130 Bath',
+    'Drug name': 'MINNY 28’s (21+7) 110-130 Baht',
     'price': '110-130 Baht'
   },
   {
@@ -828,10 +828,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 21’s 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 21’s 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -841,10 +841,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -854,10 +854,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'MELIAN 21’s 140-170 Bath',
-    'price': 'nan'
+    'Drug name': 'MELIAN 21’s 140-170 Baht',
+    'price': '140-170 Baht'
   },
   {
     'Start': 'Yes',
@@ -867,10 +867,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ONJEL 20 21’s 90-120  Bath',
-    'price': 'nan'
+    'Drug name': 'ONJEL 20 21’s 90-120  Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -880,10 +880,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -893,10 +893,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Bath',
-    'price': 'nan'
+    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Baht',
+    'price': '180-220 Baht'
   },
   {
     'Start': 'Yes',
@@ -906,10 +906,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 18.5,
-    'Years': '>40 years ',
+    'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINOZ 28’s (24+4) 130-190 Bath',
-    'price': 'nan'
+    'Drug name': 'MINOZ 28’s (24+4) 130-190 Baht',
+    'price': '130-190 Baht'
   },
   {
     'Start': 'Yes',
@@ -919,10 +919,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'YAZ 28’s (24+4) 470-550 Bath',
-    'price': 'nan'
+    'Drug name': 'YAZ 28’s (24+4) 470-550 Baht',
+    'price': '470-550 Baht'
   },
   {
     'Start': 'Yes',
@@ -932,10 +932,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'HERZ 28’s (24+4) 290-330 Bath',
-    'price': 'nan'
+    'Drug name': 'HERZ 28’s (24+4) 290-330 Baht',
+    'price': '290-330 Baht'
   },
   {
     'Start': 'Yes',
@@ -945,10 +945,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Bath',
-    'price': 'nan'
+    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Baht',
+    'price': '300-380 Baht'
   },
   {
     'Start': 'Yes',
@@ -958,10 +958,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'MERCILON 21’s 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 21’s 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -971,10 +971,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -984,10 +984,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'NOVYNETT 21’s 100-130 Bath',
-    'price': 'nan'
+    'Drug name': 'NOVYNETT 21’s 100-130 Baht',
+    'price': '100-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -997,10 +997,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 28’s (21+7) 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 28’s (21+7) 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1010,10 +1010,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 28’s (21+7) 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 28’s (21+7) 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1023,10 +1023,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 21’s 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 21’s 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1036,10 +1036,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1049,10 +1049,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'MELIANE 21’s 140-170 Bath',
-    'price': 'nan'
+    'Drug name': 'MELIANE 21’s 140-170 Baht',
+    'price': '140-170 Baht'
   },
   {
     'Start': 'Yes',
@@ -1062,10 +1062,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ONJEL 20 21’s 90-120  Bath',
-    'price': 'nan'
+    'Drug name': 'ONJEL 20 21’s 90-120  Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -1077,8 +1077,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': '18.5-24.10',
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -1088,10 +1088,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Bath',
-    'price': 'nan'
+    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Baht',
+    'price': '180-220 Baht'
   },
   {
     'Start': 'Yes',
@@ -1101,10 +1101,10 @@ final List<Map<String, dynamic>> mockData = [
     'Concern ': 'No',
     'COC or POP or Hospital': 'COC',
     'BMI': 25,
-    'Years': '<19 years ',
+    'Years': '<19 years',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINOZ 28’s (24+4) 130-190 Bath',
-    'price': 'nan'
+    'Drug name': 'MINOZ 28’s (24+4) 130-190 Baht',
+    'price': '130-190 Baht'
   },
   {
     'Start': 'Yes',
@@ -1116,8 +1116,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Chlormadione acetate 2 mg',
-    'Drug name': 'BELARA 21’s 320-350 Bath',
-    'price': 'nan'
+    'Drug name': 'BELARA 21’s 320-350 Baht',
+    'price': '320-350 Baht'
   },
   {
     'Start': 'Yes',
@@ -1129,8 +1129,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Chlormadione acetate 2 mg',
-    'Drug name': 'CHARIVA 21’s 240-280 Bath',
-    'price': 'nan'
+    'Drug name': 'CHARIVA 21’s 240-280 Baht',
+    'price': '240-280 Baht'
   },
   {
     'Start': 'Yes',
@@ -1142,8 +1142,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 2 mg',
-    'Drug name': 'MARVELON 21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MARVELON 21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1155,8 +1155,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 2 mg',
-    'Drug name': 'MARVELON 28’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MARVELON 28’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1168,8 +1168,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'FEMINE 30 21’s 80-90 Bath',
-    'price': 'nan'
+    'Drug name': 'FEMINE 30 21’s 80-90 Baht',
+    'price': '80-90 Baht'
   },
   {
     'Start': 'Yes',
@@ -1181,8 +1181,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'RITA 21’s 80-90 Bath',
-    'price': 'nan'
+    'Drug name': 'RITA 21’s 80-90 Baht',
+    'price': '80-90 Baht'
   },
   {
     'Start': 'Yes',
@@ -1194,8 +1194,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'RITA 28’s 80-90 Bath',
-    'price': 'nan'
+    'Drug name': 'RITA 28’s 80-90 Baht',
+    'price': '80-90 Baht'
   },
   {
     'Start': 'Yes',
@@ -1207,8 +1207,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'DAISY 21’s 80-90 Bath',
-    'price': 'nan'
+    'Drug name': 'DAISY 21’s 80-90 Baht',
+    'price': '80-90 Baht'
   },
   {
     'Start': 'Yes',
@@ -1220,8 +1220,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'DIORA 21’s (24+4) 470-550 Bath',
-    'price': 'nan'
+    'Drug name': 'DIORA 21’s (24+4) 470-550 Baht',
+    'price': '470-550 Baht'
   },
   {
     'Start': 'Yes',
@@ -1233,8 +1233,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'DIORA 28’s (21+7) 60-100 Bath',
-    'price': 'nan'
+    'Drug name': 'DIORA 28’s (21+7) 60-100 Baht',
+    'price': '60-100 Baht'
   },
   {
     'Start': 'Yes',
@@ -1246,8 +1246,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'ANNA 28’s (21+7) 40-70 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNA 28’s (21+7) 40-70 Baht',
+    'price': '40-70 Baht'
   },
   {
     'Start': 'Yes',
@@ -1259,8 +1259,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'MILLY 21’s 40-70 Bath',
-    'price': 'nan'
+    'Drug name': 'MILLY 21’s 40-70 Baht',
+    'price': '40-70 Baht'
   },
   {
     'Start': 'Yes',
@@ -1272,8 +1272,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'R-DEN 21’s 40-50 Bath',
-    'price': 'nan'
+    'Drug name': 'R-DEN 21’s 40-50 Baht',
+    'price': '40-50 Baht'
   },
   {
     'Start': 'Yes',
@@ -1285,8 +1285,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'ZARINE 21’s 50-70 Bath',
-    'price': 'nan'
+    'Drug name': 'ZARINE 21’s 50-70 Baht',
+    'price': '50-70 Baht'
   },
   {
     'Start': 'Yes',
@@ -1298,8 +1298,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'MICROGEST 21’s 50-70 Bath',
-    'price': 'nan'
+    'Drug name': 'MICROGEST 21’s 50-70 Baht',
+    'price': '50-70 Baht'
   },
   {
     'Start': 'Yes',
@@ -1311,8 +1311,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'MICROGYNON 30 ED 21’s 60-70 Bath',
-    'price': 'nan'
+    'Drug name': 'MICROGYNON 30 ED 21’s 60-70 Baht',
+    'price': '60-70 Baht'
   },
   {
     'Start': 'Yes',
@@ -1324,8 +1324,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'MICROLENYN 30 ED 21’s 30-40 Bath',
-    'price': 'nan'
+    'Drug name': 'MICROLENYN 30 ED 21’s 30-40 Baht',
+    'price': '30-40 Baht'
   },
   {
     'Start': 'Yes',
@@ -1337,8 +1337,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'CLEO 21’s 80-90 Bath',
-    'price': 'nan'
+    'Drug name': 'CLEO 21’s 80-90 Baht',
+    'price': '80-90 Baht'
   },
   {
     'Start': 'Yes',
@@ -1350,8 +1350,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'ORALCON-F 21’s 80-90 Bath',
-    'price': 'nan'
+    'Drug name': 'ORALCON-F 21’s 80-90 Baht',
+    'price': '80-90 Baht'
   },
   {
     'Start': 'Yes',
@@ -1363,8 +1363,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Levonorgestrel 0.15 mg',
-    'Drug name': 'NORDETTE 21’s 50-70 Bath',
-    'price': 'nan'
+    'Drug name': 'NORDETTE 21’s 50-70 Baht',
+    'price': '50-70 Baht'
   },
   {
     'Start': 'Yes',
@@ -1376,8 +1376,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'JUSTIMA 21’s 290-350 Bath',
-    'price': 'nan'
+    'Drug name': 'JUSTIMA 21’s 290-350 Baht',
+    'price': '290-350 Baht'
   },
   {
     'Start': 'Yes',
@@ -1389,8 +1389,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'MELODIA 21’s 285-310 Bath',
-    'price': 'nan'
+    'Drug name': 'MELODIA 21’s 285-310 Baht',
+    'price': '285-310 Baht'
   },
   {
     'Start': 'Yes',
@@ -1402,8 +1402,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Drospirenone 3 mg',
-    'Drug name': 'YASMIN 21’s 350-420 Bath',
-    'price': 'nan'
+    'Drug name': 'YASMIN 21’s 350-420 Baht',
+    'price': ' 350-420 Baht'
   },
   {
     'Start': 'Yes',
@@ -1415,8 +1415,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30  mcg + Drospirenone 3 mg ',
-    'Drug name': 'GVEZA 21’s 270-300 Bath',
-    'price': 'nan'
+    'Drug name': 'GVEZA 21’s 270-300 Baht',
+    'price': '270-300 Baht'
   },
   {
     'Start': 'Yes',
@@ -1428,8 +1428,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30  mcg + Drospirenone 3 mg ',
-    'Drug name': 'LIPZ 21’s 250-300 bath',
-    'price': 'nan'
+    'Drug name': 'LIPZ 21’s 250-300 Baht',
+    'price': '250-300 Baht'
   },
   {
     'Start': 'Yes',
@@ -1441,8 +1441,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30  mcg + Drospirenone 3 mg ',
-    'Drug name': 'LIPZ ED 28’s (21+7) 250-300 Bath',
-    'price': 'nan'
+    'Drug name': 'LIPZ ED 28’s (21+7) 250-300 Baht',
+    'price': '250-300 Baht'
   },
   {
     'Start': 'Yes',
@@ -1454,8 +1454,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodone 0.075 mg',
-    'Drug name': 'CAMELLA 21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'CAMELLA 21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1467,8 +1467,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodone 0.075 mg',
-    'Drug name': 'CAMELLA 28’s (21+7) 100-130 Bath',
-    'price': 'nan'
+    'Drug name': 'CAMELLA 28’s (21+7) 100-130 Baht',
+    'price': '100-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1480,8 +1480,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodene 0.075 mg ',
-    'Drug name': 'GYNERA 21’s 100-140 Bath',
-    'price': 'nan'
+    'Drug name': 'GYNERA 21’s 100-140 Baht',
+    'price': '100-140 Baht'
   },
   {
     'Start': 'Yes',
@@ -1493,8 +1493,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 30 mcg + Gestodene 0.075 mg ',
-    'Drug name': 'GOVANA 21’s 100-140 Bath',
-    'price': 'nan'
+    'Drug name': 'GOVANA 21’s 100-140 Baht',
+    'price': '100-140 Baht'
   },
   {
     'Start': 'Yes',
@@ -1506,8 +1506,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'YAZ 28’s (24+4) 470-550 Bath',
-    'price': 'nan'
+    'Drug name': 'YAZ 28’s (24+4) 470-550 Baht',
+    'price': '470-550 Baht'
   },
   {
     'Start': 'Yes',
@@ -1519,8 +1519,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'HERZ 28’s (24+4) 290-330 Bath',
-    'price': 'nan'
+    'Drug name': 'HERZ 28’s (24+4) 290-330 Baht',
+    'price': '290-330 Baht'
   },
   {
     'Start': 'Yes',
@@ -1532,8 +1532,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Bath',
-    'price': 'nan'
+    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Baht',
+    'price': '300-380 Baht'
   },
   {
     'Start': 'Yes',
@@ -1545,8 +1545,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 21’s 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 21’s 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1558,8 +1558,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1571,8 +1571,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'NOVYNETT 21’s 100-130 Bath',
-    'price': 'nan'
+    'Drug name': 'NOVYNETT 21’s 100-130 Baht',
+    'price': '100-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1584,8 +1584,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 28’s (21+7) 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 28’s (21+7) 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1597,8 +1597,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 28’s (21+7) 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 28’s (21+7) 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1610,8 +1610,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 21’s 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 21’s 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1623,8 +1623,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1636,8 +1636,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'MELIANE 21’s 140-170 Bath',
-    'price': 'nan'
+    'Drug name': 'MELIANE 21’s 140-170 Baht',
+    'price': '140-170 Baht'
   },
   {
     'Start': 'Yes',
@@ -1649,8 +1649,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ONJEL 20 21’s 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'ONJEL 20 21’s 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -1662,8 +1662,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '19-40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Baht',
+    'price': ' 90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -1675,8 +1675,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'YAZ 28’s (24+4) 470-550 Bath',
-    'price': 'nan'
+    'Drug name': 'YAZ 28’s (24+4) 470-550 Baht',
+    'price': '470-550 Baht'
   },
   {
     'Start': 'Yes',
@@ -1688,8 +1688,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'HERZ 28’s (24+4) 290-330 Bath',
-    'price': 'nan'
+    'Drug name': 'HERZ 28’s (24+4) 290-330 Baht',
+    'price': '290-330 Baht'
   },
   {
     'Start': 'Yes',
@@ -1701,8 +1701,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Bath',
-    'price': 'nan'
+    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Baht',
+    'price': '300-380 Baht'
   },
   {
     'Start': 'Yes',
@@ -1714,8 +1714,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 21’s 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 21’s 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1727,8 +1727,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1740,8 +1740,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'Novynette  21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'Novynette  21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1753,8 +1753,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 28’s (21+7) 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 28’s (21+7) 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1766,8 +1766,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 28’s (21+7) 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 28’s (21+7) 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1779,8 +1779,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 21’s 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 21’s 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1792,8 +1792,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1805,8 +1805,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'MELIANE 21’s 140-170 Bath',
-    'price': 'nan'
+    'Drug name': 'MELIANE 21’s 140-170 Baht',
+    'price': '140-170 Baht'
   },
   {
     'Start': 'Yes',
@@ -1818,8 +1818,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ONJEL 20 21’s 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'ONJEL 20 21’s 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -1831,8 +1831,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -1844,8 +1844,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Bath',
-    'price': 'nan'
+    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Baht',
+    'price': '180-220 Baht'
   },
   {
     'Start': 'Yes',
@@ -1857,8 +1857,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 25,
     'Years': '>40 years',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINOZ 28’s (24+4) 130-190 Bath',
-    'price': 'nan'
+    'Drug name': 'MINOZ 28’s (24+4) 130-190 Baht',
+    'price': '130-190 Baht'
   },
   {
     'Start': 'Yes',
@@ -1870,8 +1870,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'YAZ 28’s (24+4) 470-550 Bath',
-    'price': 'nan',
+    'Drug name': 'YAZ 28’s (24+4) 470-550 Baht',
+    'price': '470-550 Baht',
   },
   {
     'Start': 'Yes',
@@ -1883,8 +1883,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'HERZ 28’s (24+4) 290-330 Bath',
-    'price': 'nan'
+    'Drug name': 'HERZ 28’s (24+4) 290-330 Baht',
+    'price': '290-330 Baht'
   },
   {
     'Start': 'Yes',
@@ -1896,8 +1896,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Drospirenone 3 mg',
-    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Bath',
-    'price': 'nan'
+    'Drug name': 'SYNFONIA 28’s (24+4) 300-380 Baht',
+    'price': '300-380 Baht'
   },
   {
     'Start': 'Yes',
@@ -1909,8 +1909,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 21’s 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 21’s 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1922,8 +1922,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 21’s 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 21’s 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1935,8 +1935,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'NOVYNETT 21’s 100-130 Bath',
-    'price': 'nan'
+    'Drug name': 'NOVYNETT 21’s 100-130 Baht',
+    'price': '100-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1948,8 +1948,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MERCILON 28’s (21+7) 160-180 Bath',
-    'price': 'nan'
+    'Drug name': 'MERCILON 28’s (21+7) 160-180 Baht',
+    'price': '160-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1961,8 +1961,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Desogestrel 0.15 mg',
-    'Drug name': 'MINNY 28’s (21+7) 110-130 Bath',
-    'price': 'nan'
+    'Drug name': 'MINNY 28’s (21+7) 110-130 Baht',
+    'price': '110-130 Baht'
   },
   {
     'Start': 'Yes',
@@ -1974,8 +1974,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 21’s 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 21’s 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -1987,8 +1987,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Bath',
-    'price': 'nan'
+    'Drug name': 'ANNYLYN 28’s (21+7) 130-180 Baht',
+    'price': '130-180 Baht'
   },
   {
     'Start': 'Yes',
@@ -2000,8 +2000,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'MELIANE 21’s 140-170 Bath',
-    'price': 'nan'
+    'Drug name': 'MELIANE 21’s 140-170 Baht',
+    'price': '140-170 Baht'
   },
   {
     'Start': 'Yes',
@@ -2013,8 +2013,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'ONJEL 20 21’s 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'ONJEL 20 21’s 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -2026,8 +2026,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 20 mcg + Gestodene 0.075 mg',
-    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Bath',
-    'price': 'nan'
+    'Drug name': 'CICLONEX 20 28’s (21+7) 90-120 Baht',
+    'price': '90-120 Baht'
   },
   {
     'Start': 'Yes',
@@ -2039,8 +2039,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Bath',
-    'price': 'nan'
+    'Drug name': 'MINIDOZ 28’s (24+4) 180-220 Baht',
+    'price': '180-220 Baht'
   },
   {
     'Start': 'Yes',
@@ -2052,8 +2052,8 @@ final List<Map<String, dynamic>> mockData = [
     'BMI': 30,
     'Years': 'nan',
     'active ingredient': 'Ethinyl estradiol 15 mcg + Gestodene 0.06 mg',
-    'Drug name': 'MINOZ 28’s (24+4) 130-190 Bath',
-    'price': 'nan'
+    'Drug name': 'MINOZ 28’s (24+4) 130-190 Baht',
+    'price': '130-190 Baht'
   },
   {
     'Start': 'Yes',
@@ -2066,6 +2066,6 @@ final List<Map<String, dynamic>> mockData = [
     'Years': 'nan',
     'active ingredient': 'Drospirenone 4 mg',
     'Drug name': 'SLINDA 28’s (24+4) ',
-    'price': 'nan',
+    'price': '290-350 Baht',
   },
 ];

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:kuy2/pages/bmi/bmi_page.dart';
+import 'package:kuy2/pages/button/buttonanimation.dart';
 import 'package:kuy2/pages/hospital/hospital.dart';
 import 'package:kuy2/pages/question/ContainCoC.dart';
 
@@ -55,17 +56,25 @@ class Samedrug extends StatelessWidget {
                   ],
                 ),
               ),
+              SizedBox(
+                height: 100,
+              ),
               Container(
                 margin: const EdgeInsets.all(4),
                 padding: EdgeInsets.all(10),
-                color: Color.fromARGB(255, 255, 229, 236),
+                decoration: BoxDecoration(
+                    border: Border.all(color: Colors.black),
+                    color: Color.fromARGB(255, 255, 229, 236)),
                 child: const Text(
-                    'Anticonvulsant Therapy\nAntiretroviral\nTherapy\nRifampicin',
+                    'Anticonvulsant Therapy\nAntiretroviral Therapy\nRifampicin',
                     style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.black,
                     )),
+              ),
+              SizedBox(
+                height: 100,
               ),
               ElevatedButton(
                 onPressed: () {
@@ -78,14 +87,7 @@ class Samedrug extends StatelessWidget {
                   ),
                   minimumSize: Size(double.infinity, 60),
                 ),
-                child: const Text(
-                  'YES',
-                  style: TextStyle(
-                    fontSize: 18,
-                    fontWeight: FontWeight.bold,
-                    color: Colors.white,
-                  ),
-                ),
+                child: const AnimatedButton(),
               ),
               const SizedBox(height: 20),
               ElevatedButton(

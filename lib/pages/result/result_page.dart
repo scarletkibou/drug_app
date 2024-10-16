@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../data/mock_data_flutter.dart'; // Assume this is where your mock data is stored
+import '../data/mock_data_flutter.dart';
 import 'package:kuy2/pages/controller/flow1.dart';
 
 class Result extends StatefulWidget {
@@ -14,25 +14,21 @@ class _ResultState extends State<Result> {
   flow1Controller conx = Get.find<flow1Controller>();
 
   List<Map<String, dynamic>> getMatchingData() {
-    // Get user's BMI and Years from controller
     double userBmi = conx.bmi.value;
     String userYears = conx.selectedAgeRange.value;
 
-    // Determine BMI range
     double bmiRange;
     if (userBmi < 18.5) {
-      bmiRange = 18.5; // Example range, adjust if necessary
+      bmiRange = 18.5;
     } else if (userBmi < 25) {
       bmiRange = 25;
     } else if (userBmi < 30) {
       bmiRange = 30;
     } else {
-      bmiRange = 31; // If BMI > 30, use 31 as the range for filtering
+      bmiRange = 31;
     }
 
-    // Filter the mock data based on BMI and Years
     return mockData.where((data) {
-      // Match BMI and Years, and also include entries where 'Years' is 'nan'
       return data['BMI'] == bmiRange &&
           (data['Years'] == userYears || data['Years'] == 'nan');
     }).toList();
@@ -40,7 +36,6 @@ class _ResultState extends State<Result> {
 
   @override
   Widget build(BuildContext context) {
-    // Fetch matching data based on user's BMI and selected year range
     List<Map<String, dynamic>> filteredData = getMatchingData();
 
     return Scaffold(
@@ -68,20 +63,66 @@ class _ResultState extends State<Result> {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text(
-                            'Active Ingredient: ${data['active ingredient']}',
-                            style: TextStyle(
-                                fontSize: 18, fontWeight: FontWeight.bold),
+                          Row(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                'Active Ingredient:',
+                                style: TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              SizedBox(width: 8),
+                              Flexible(
+                                child: Text(
+                                  ' ${data['active ingredient']}',
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                  ),
+                                ),
+                              ),
+                            ],
                           ),
                           SizedBox(height: 10),
-                          Text(
-                            'Drug Name: ${data['Drug name']}',
-                            style: TextStyle(fontSize: 16),
+                          Row(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                'Drug Name:',
+                                style: TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              SizedBox(width: 8),
+                              Flexible(
+                                child: Text(
+                                  ' ${data['Drug name']}',
+                                  style: TextStyle(fontSize: 18),
+                                ),
+                              ),
+                            ],
                           ),
                           SizedBox(height: 10),
-                          Text(
-                            'Price: ${data['price']}',
-                            style: TextStyle(fontSize: 16),
+                          Row(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                'Price: ',
+                                style: TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              SizedBox(width: 8),
+                              Flexible(
+                                child: Text(
+                                  ' ${data['price']}',
+                                  style: TextStyle(fontSize: 18),
+                                ),
+                              ),
+                            ],
                           ),
                         ],
                       ),
