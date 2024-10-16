@@ -70,7 +70,7 @@ flutter:
 flutter_icons:
   android : true
   ios : true
-  image_path: "assets/hospital.jpg"
+  image_path: "assets/logonew.png"
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

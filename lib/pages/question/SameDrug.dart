@@ -43,6 +43,7 @@ class Samedrug extends StatelessWidget {
               const Center(
                 child: Column(
                   children: [
+                    SizedBox(height: 50),
                     Text(
                       'CONCOMITANT DRUG?',
                       style: TextStyle(
@@ -54,8 +55,17 @@ class Samedrug extends StatelessWidget {
                   ],
                 ),
               ),
-              const SizedBox(
-                height: 200,
+              Container(
+                margin: const EdgeInsets.all(4),
+                padding: EdgeInsets.all(10),
+                color: Color.fromARGB(255, 255, 229, 236),
+                child: const Text(
+                    'Anticonvulsant Therapy\nAntiretroviral\nTherapy\nRifampicin',
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black,
+                    )),
               ),
               ElevatedButton(
                 onPressed: () {
